@@ -42,7 +42,7 @@ Another aspect in which I am exploring is the universe of data science, as a bus
 Veja os tutoriais publicados do zero.ai:
 
 * **Analisando dados do Airbnb [NY e RJ]:** https://kutt.it/arbnbNYRJ
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
+* **Identificando fraudes no cartão de crédito:** https://kutt.it/fraudeMachineLearn
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
