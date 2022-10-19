@@ -43,7 +43,7 @@ Veja os tutoriais publicados do zero.ai:
 
 * **Analisando dados do Airbnb [NY e RJ]:** https://kutt.it/arbnbNYRJ
 * **Identificando fraudes no cartão de crédito:** https://kutt.it/fraudeMachineLearn
-* **Extraindo dados :** https://kutt.it/DadosYoutube
+* **Extraindo dados do YouTube | API:** https://kutt.it/DadosYoutube
 
 
 ---
