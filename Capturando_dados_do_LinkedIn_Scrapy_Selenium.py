@@ -1,4 +1,4 @@
-#import pakvsgrd
+#import pacotes
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
@@ -58,4 +58,4 @@ for perfil in lista_perfil:
     writer.writerow([nome, headline, url_perfil])
 
 #sair do driver
-driver.quit()
+driver.quit() 
